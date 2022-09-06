@@ -1,2 +1,1 @@
-# projeeto-42-
-este projeto está sendo direcionado á Byjus
+# PRO-V2-C42-ModeloProjeto
